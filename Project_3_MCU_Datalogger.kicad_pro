@@ -497,12 +497,14 @@
         "wire_width": 6
       },
       {
+        "bus_width": 12,
         "line_style": 0,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "tuning_profile": ""
+        "tuning_profile": "",
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -510,7 +512,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "/Vcc"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -646,7 +657,7 @@
         "uuid": "1ca10c46-e179-4f0f-a358-12ef4bc3b670"
       }
     ],
-    "used_designators": "J1-4,H1-5,#FLG1-3,BT1,#PWR1-10,D1-2,C1-5,R1-7,Y1-2,U1-4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
