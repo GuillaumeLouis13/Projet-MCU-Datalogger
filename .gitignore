@@ -1,3 +1,4 @@
 .history/
 **/Project_3_MCU_Datalogger-backups/
 ~*.lck
+.DS_Store
