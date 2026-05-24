@@ -19,6 +19,10 @@ Le circuit a été conçu avec une attention particulière sur la gestion du bru
 
 📸 Aperçu du projet
 
+Schema électrique : 
+
+![Schema électrique](images/schematic.png)
+
 Routage PCB : 
 
 ![Routage PCB](images/routing.png)
