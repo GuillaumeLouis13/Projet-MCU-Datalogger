@@ -1,6 +1,6 @@
 📊 Datalogger MCU Embarqué
 
-Projet réalisé dans le cadre d'une formation en conception électronique sous KiCad. Ce datalogger est conçu pour enregistrer des données horodatées grâce à une horloge temps réel (RTC) et une mémoire non-volatile (EEPROM).
+Projet créé dans le cadre d'une formation en conception électronique sous KiCad. Ce datalogger est conçu pour enregistrer des données horodatées grâce à une horloge temps réel (RTC) et une mémoire non-volatile (EEPROM).
 
 💡 Description du projet
 
