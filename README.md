@@ -19,10 +19,10 @@ Le circuit a été conçu avec une attention particulière sur la gestion du bru
 
 📸 Aperçu du projet
 
-Routage PCB
-(Insère ici ton image de routage 2D)
-Stratégie de routage : Optimisation du plan de masse sur la couche inférieure et gestion des signaux critiques sur la couche supérieure.
+Routage PCB : 
 
-Modèle 3D final
-(Insère ici ton rendu 3D généré par KiCad)
-Visualisation 3D de l'assemblage final, permettant de vérifier l'encombrement des composants.
+![Routage PCB](images/routing.png)
+
+Modèle 3D final : 
+![Modele 3D](images/front_3D_model.png)
+![Modele 3D](images/back_3D_model.png)
