@@ -4228,6 +4228,16 @@
 		)
 		(uuid "a3d6fe4d-f020-4fb1-a3c0-fd99fb1860e2")
 	)
+	(label "SCK"
+		(at 191.77 151.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b8baca7e-728a-4fe4-98dd-214a59140733")
+	)
 	(label "Vcc"
 		(at 53.34 130.81 180)
 		(effects
@@ -8034,6 +8044,16 @@
 		(pin "Vcc" passive
 			(at 191.77 120.65 180)
 			(uuid "47a09b78-25e2-4bcc-b335-69dd13249ea9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" passive
+			(at 191.77 151.13 180)
+			(uuid "3fd79569-61a8-41cb-b8ed-08357485a01b")
 			(effects
 				(font
 					(size 1.27 1.27)

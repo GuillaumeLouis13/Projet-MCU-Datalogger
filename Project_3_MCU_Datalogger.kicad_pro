@@ -521,9 +521,9 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.35,
+        "track_width": 0.45,
         "tuning_profile": "",
-        "via_diameter": 0.7,
+        "via_diameter": 0.75,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -678,7 +678,7 @@
         "uuid": "1ca10c46-e179-4f0f-a358-12ef4bc3b670"
       }
     ],
-    "used_designators": "C5",
+    "used_designators": "J5,C5",
     "variants": []
   },
   "sheets": [
