@@ -5,9 +5,9 @@ Projet créé dans le cadre d'une formation en conception électronique sous KiC
 💡 Description du projet
 
 J'ai réalisé ce projet en complément de mon stage pour approfondir mes compétences en routage PCB et en conception de systèmes embarqués. Le système repose sur un microcontrôleur ATmega328P et intègre les périphériques suivants :
-- Microcontrôleur : ATmega328P-AU (Architecture AVR 8-bit).
+- Microcontrôleur : ATmega328P-AU (Architecture AVR 8-bit), importé sur KiCad depuis une bibliothèque externe.
 - Stockage : Mémoire EEPROM I2C (24LC1025) pour la journalisation des données.
-- Horloge : RTC (DS1337S) avec sauvegarde pour le suivi temporel.
+- Horloge : RTC (DS1337S) avec sauvegarde pour le suivi temporel, importé sur KiCad depuis une bibliothèque externe.
 - Interface : Connecteur ICSP pour la programmation et connecteurs dédiés (I2C, UART, GPIO) pour l'extension.
 
 🛠️ Architecture électronique
